@@ -6,7 +6,7 @@ Here's your **complete GitHub-ready repository** for **Sherin_Global_Price_Radar
 ✅ **Production-ready FastAPI backend**
 ✅ **Real store integrations** (Amazon.ae, Noon, Dubizzle, etc.)
 ✅ **Deployment-ready** structure
-✅ **MIT License** for open-source flexibility
+✅ **MIT License** for open-source flexibility 
 
 ---
 
