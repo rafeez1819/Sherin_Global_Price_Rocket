@@ -57,7 +57,7 @@ Sherin_Global_Price_Radar/
 
 ## 🎨 Visual Effects & UI Highlights
 
-### 1. **FM Radio Dial with Magnetic Snap** (`frontend/components/CountryDial.tsx`)
+### 1. **Magnetic Snap** (`frontend/components/CountryDial.tsx`)
 ```tsx
 "use client";
 import { motion, useAnimation } from "framer-motion";
